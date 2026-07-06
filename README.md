@@ -4,14 +4,17 @@
 
 ### End-to-End Data Analytics Project using SQL • Python • Machine Learning • Power BI
 
-<img src="images/dashboard_summary.png" width="90%">
+<img src="C:\Users\SAKSHAM\Desktop\MAIN FOLDER\analysis of customer curn\Screenshot 2026-07-04 080838.png" width="90%">
+
+<img src="iC:\Users\SAKSHAM\Desktop\MAIN FOLDER\analysis of customer curn\Screenshot 2026-07-06 133027.png" width="90%">
+
+<img src="C:\Users\SAKSHAM\Desktop\MAIN FOLDER\analysis of customer curn\Screenshot 2026-07-06 133043.png" width="90%">
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
