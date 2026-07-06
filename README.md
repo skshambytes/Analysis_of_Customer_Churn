@@ -4,11 +4,11 @@
 
 ### End-to-End Data Analytics Project using SQL • Python • Machine Learning • Power BI
 
-<img src="C:\Users\SAKSHAM\Desktop\MAIN FOLDER\analysis of customer curn\Screenshot 2026-07-04 080838.png" width="90%">
+<img src="images/Dashboard1.png" width="90%">
 
-<img src="iC:\Users\SAKSHAM\Desktop\MAIN FOLDER\analysis of customer curn\Screenshot 2026-07-06 133027.png" width="90%">
+<img src="images/Dashboard2.png" width="90%">
 
-<img src="C:\Users\SAKSHAM\Desktop\MAIN FOLDER\analysis of customer curn\Screenshot 2026-07-06 133043.png" width="90%">
+<img src="images/Dashboard3.png" width="90%">
 
 <br>
 
