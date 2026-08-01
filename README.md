@@ -4,11 +4,14 @@
 
 ### End-to-End Data Analytics Project using SQL • Python • Machine Learning • Power BI
 
-<img src="images/Dashboard1.png" width="90%">
+<img width="1151" height="635" alt="Screenshot 2026-07-04 080838" src="https://github.com/user-attachments/assets/47d31fc0-813a-460c-8e66-e8b3ef125475" />
 
-<img src="images/Dashboard2.png" width="90%">
 
-<img src="images/Dashboard3.png" width="90%">
+<img width="1147" height="768" alt="Screenshot 2026-07-06 133027" src="https://github.com/user-attachments/assets/1a64c8c6-20d0-4fc5-97c1-737f661d60af" />
+
+
+<img width="1120" height="621" alt="Screenshot 2026-07-06 133043" src="https://github.com/user-attachments/assets/4750a082-4e0d-4da8-bf5f-30ae365643fd" />
+
 
 <br>
 
@@ -325,9 +328,9 @@ powerbi/Customer_Churn_Dashboard.pbix
 
 Data Analyst | SQL | Python | Power BI | Machine Learning
 
-📧 Email: your_email@example.com
+📧 Email: rajsaksham744@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://linkedin.com/in/sakshamraj294
 
 ---
 
