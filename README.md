@@ -326,7 +326,7 @@ powerbi/Customer_Churn_Dashboard.pbix
 
 # 👨‍💻 Author
 
-**Your Name**
+**Saksham Raj**
 
 Data Analyst | SQL | Python | Power BI | Machine Learning
 
